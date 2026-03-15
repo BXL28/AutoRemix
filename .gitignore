@@ -1,0 +1,22 @@
+# --- Backend / Python ---
+backend/venv/
+backend/__pycache__/
+backend/.env
+backend/.cache/
+backend/downloads/
+backend/error.log
+backend/error_details.txt
+
+# --- Frontend / Node ---
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/.env
+
+# --- General / OS ---
+.vscode/
+.idea/
+.DS_Store
+*.mp3
+*.wav
+*.dll

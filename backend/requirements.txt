@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+spotipy
+langchain
+langgraph
+langchain-google-genai
+pedalboard
+python-dotenv
+requests
+youtube-search-python
